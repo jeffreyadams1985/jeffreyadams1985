@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CA5P3R
-- 👀 I’m interested in ... Pentesting
-- 🌱 I’m currently learning ... linux
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in anything IT Tech.
+- 🌱 I’m currently learning ... Anything I can, as much as I can.
 - 📫 How to reach me ...
 
 <!---
